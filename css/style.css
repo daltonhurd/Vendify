@@ -801,7 +801,7 @@ input[type=range]:focus::-ms-fill-upper {
 	width: 155px;
 }
 .slide-1 .hero-slides::before {
-	background-image: url('../img/design-elem/hero-shirt.png');
+
 	height: 548px;
 	left: -210px; bottom: -110px;
 	width: 795px;
