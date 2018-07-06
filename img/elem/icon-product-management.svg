@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="62px" viewBox="0 0 60 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21,56 L17,56 C15.3431458,56 14,54.6568542 14,53 L14,49 L16,49 L16,53 C16,53.5522847 16.4477153,54 17,54 L21,54 L21,56 Z M49,56 L53,56 C54.6568542,56 56,54.6568542 56,53 L56,49 L54,49 L54,53 C54,53.5522847 53.5522847,54 53,54 L49,54 L49,56 Z M24,16 L19,16 C17.3431458,16 16,17.3431458 16,19 L16,24 L18,24 L18,19 C18,18.4477153 18.4477153,18 19,18 L24,18 L24,16 Z M49,14 L53,14 C54.6568542,14 56,15.3431458 56,17 L56,21 L54,21 L54,17 C54,16.4477153 53.5522847,16 53,16 L49,16 L49,14 Z M28,14 L45,14 L45,16 L28,16 L28,14 Z M16,25 L16,45 L14,45 L14,25 L16,25 Z M54,25 L56,25 L56,33 L54,33 L54,25 Z M54,37 L56,37 L56,45 L54,45 L54,37 Z M25,54 L33,54 L33,56 L25,56 L25,54 Z M37,54 L45,54 L45,56 L37,56 L37,54 Z M30.0966222,35.9825368 L35,39 L39.617257,33.6723958 C40.3406733,32.8376847 41.6037851,32.7474624 42.4384962,33.4708787 C42.6178652,33.6263319 42.7681304,33.812473 42.8822599,34.0205917 L50,47 L20,47 L27.4163784,36.5298187 C28.0258471,35.6693924 29.1986232,35.4299219 30.0966222,35.9825368 Z M26,30 C23.790861,30 22,28.209139 22,26 C22,23.790861 23.790861,22 26,22 C28.209139,22 30,23.790861 30,26 C30,28.209139 28.209139,30 26,30 Z" id="path-1"></path>
+        <filter x="-16.7%" y="-11.9%" width="133.3%" height="133.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.304156037   0 0 0 0 0.154484241   0 0 0 0 0.154484241  0 0 0 0.118942482 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Icon/56px/Editor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10">
+            <rect id="Rectangle-19" opacity="0.191689312" x="0" y="0" width="56" height="56"></rect>
+            <rect id="Rectangle-33" fill="#001F67" opacity="0.296761775" x="14" y="14" width="42" height="42" rx="3"></rect>
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#001F67" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <rect id="Rectangle-33" fill="#001CBE" x="0" y="0" width="42" height="42" rx="3"></rect>
+            <path d="M16.0953151,22.9957035 L21,26.010144 L25.6182284,20.6881757 C26.3421687,19.8539191 27.605337,19.7644901 28.4395936,20.4884305 C28.6182747,20.643484 28.7680288,20.8290098 28.8818936,21.0363823 L36,34 L6,34 L13.4167281,23.5426019 C14.0261922,22.6832729 15.1977681,22.4440673 16.0953151,22.9957035 Z M12,17 C9.790861,17 8,15.209139 8,13 C8,10.790861 9.790861,9 12,9 C14.209139,9 16,10.790861 16,13 C16,15.209139 14.209139,17 12,17 Z" id="Combined-Shape" fill="#DD8CC6"></path>
+        </g>
+    </g>
+</svg>

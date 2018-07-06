@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 45</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Component/Complex/Editor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-794.000000, -562.000000)">
+        <g id="Details-(sidebar)" transform="translate(770.000000, 61.000000)">
+            <g id="Toolbar-(details)" transform="translate(0.000000, 67.000000)">
+                <g id="Details" transform="translate(0.000000, 420.000000)">
+                    <g id="Group-45" transform="translate(24.000000, 14.000000)">
+                        <rect id="Rectangle-72" fill="#333333" x="0" y="0" width="22" height="22" rx="2"></rect>
+                        <path d="M11,5 C12.6533333,5 14,6.34666667 14,8 C14,9.65333333 12.6533333,11 11,11 C9.34666667,11 8,9.65333333 8,8 C8,6.34666667 9.34666667,5 11,5 Z M16,17 L6,17 L6.15097495,16.0222575 C6.29231737,15.106897 6.84854476,14.308145 7.6580493,13.858073 L9.05628232,13.080677 C10.2649677,12.4086666 11.7350323,12.4086666 12.9437177,13.080677 L14.3419507,13.858073 C15.1514552,14.308145 15.7076826,15.106897 15.8490251,16.0222575 L16,17 Z" id="Combined-Shape" fill="#000000"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

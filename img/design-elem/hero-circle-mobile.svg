@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="119px" viewBox="0 0 124 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 39</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="114.5" cy="60.5" r="3.5"></circle>
+        <circle id="path-2" cx="57.5" cy="118.5" r="3.5"></circle>
+        <circle id="path-3" cx="57.5" cy="3.5" r="3.5"></circle>
+        <circle id="path-4" cx="114.5" cy="29.5" r="2.5"></circle>
+        <circle id="path-5" cx="114.5" cy="93.5" r="2.5"></circle>
+    </defs>
+    <g id="Component/Complex/Mobile/Hero/Digital" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-329.000000, -165.000000)">
+        <g transform="translate(-88.000000, 4.000000)" id="Group-39">
+            <g transform="translate(481.777586, 220.191799) scale(-1, 1) rotate(-15.000000) translate(-481.777586, -220.191799) translate(422.777586, 159.191799)">
+                <circle id="Oval-15" stroke="#273CF3" stroke-width="4" cx="57" cy="61" r="55"></circle>
+                <rect id="Rectangle-63" fill="#C3C3C3" x="114" y="31" width="1" height="60"></rect>
+                <g id="Oval-16">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#C3C3C3" stroke-width="1" cx="114.5" cy="60.5" r="3"></circle>
+                </g>
+                <g id="Oval-16">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#C3C3C3" stroke-width="1" cx="57.5" cy="118.5" r="3"></circle>
+                </g>
+                <g id="Oval-16">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#C3C3C3" stroke-width="1" cx="57.5" cy="3.5" r="3"></circle>
+                </g>
+                <g id="Oval-16">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#C3C3C3" stroke-width="1" cx="114.5" cy="29.5" r="2"></circle>
+                </g>
+                <g id="Oval-16">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <circle stroke="#C3C3C3" stroke-width="1" cx="114.5" cy="93.5" r="2"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

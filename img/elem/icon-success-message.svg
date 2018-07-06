@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="58px" viewBox="0 0 73 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>success-message</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="48" rx="2"></rect>
+        <polygon id="path-3" points="12 22 6 15.8604651 0 22 0 0 12 0"></polygon>
+    </defs>
+    <g id="Exit-Intent-(success)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-718.000000, -366.000000)">
+        <g id="Group-4">
+            <g transform="translate(713.000000, 363.000000)">
+                <g id="success-message" transform="translate(5.000000, 3.000000)">
+                    <g id="Rectangle-8-+-Rectangle-8-Mask" transform="translate(0.000000, 10.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#ECEDF8" xlink:href="#path-1"></use>
+                        <polygon id="Rectangle-8" fill="#D5D7E9" opacity="0.545346467" mask="url(#mask-2)" transform="translate(32.000000, 33.000000) scale(1, -1) translate(-32.000000, -33.000000) " points="-6 18 70 18 32 48"></polygon>
+                        <path d="M-2,0 L66,0 L33.9848649,28.2486486 C32.8507965,29.2492972 31.1492035,29.2492972 30.0151351,28.2486486 L-2,0 Z" id="Rectangle-8" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                    </g>
+                    <g id="Group" transform="translate(49.000000, 0.000000)">
+                        <g id="Rectangle-6" transform="translate(6.000000, 12.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Mask" fill="#001F67" xlink:href="#path-3"></use>
+                            <rect fill="#244FAF" mask="url(#mask-4)" x="3.5" y="0" width="5" height="22"></rect>
+                            <polygon id="Star" fill="#000000" opacity="0.281306612" mask="url(#mask-4)" points="3.21374823 9.78248346 -1.50609191 11.1027374 -1.05503714 6.11724639 -5.5 4.02421006 -2.02269223 0.501777398 -4.11293028 -4.02519424 0.763559542 -4.43638315 2.00609191 -9.27906977 6 -6.38661507 9.99390809 -9.27906977 11.2364405 -4.43638315 16.1129303 -4.02519424 14.0226922 0.501777398 17.5 4.02421006 13.0550371 6.11724639 13.5060919 11.1027374 8.78625177 9.78248346 6 13.8982662"></polygon>
+                        </g>
+                        <polygon id="Star" fill="#DD8CC6" points="9.09260685 19.7381303 4.16755626 21.1052458 4.63822211 15.9427981 0 13.7754709 3.62849507 10.1280118 1.4473771 5.44035833 6.53588822 5.01457454 7.83244374 3.01149497e-14 12 2.99512045 16.1675563 0 17.4641118 5.01457454 22.5526229 5.44035833 20.3715049 10.1280118 24 13.7754709 19.3617779 15.9427981 19.8324437 21.1052458 14.9073932 19.7381303 12 24"></polygon>
+                        <circle id="Oval-4" fill="#FFC8C1" cx="12" cy="12" r="5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

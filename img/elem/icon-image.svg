@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="24px" viewBox="0 0 28 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 26</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="26" height="22" rx="2"></rect>
+    </defs>
+    <g id="Component/Complex/Editor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-956.000000, -188.000000)" opacity="0.5">
+        <g id="Design-(sidebar)" transform="translate(770.000000, 61.000000)">
+            <g id="Sidebar-(design)" transform="translate(60.000000, 0.000000)">
+                <g id="Header-Image" transform="translate(20.000000, 78.000000)">
+                    <g id="Group-27" transform="translate(2.000000, 25.000000)">
+                        <g id="Group-26" transform="translate(104.000000, 24.000000)">
+                            <rect id="Rectangle-30" stroke="#D3D3D3" stroke-width="2" x="1" y="1" width="26" height="22" rx="3"></rect>
+                            <g id="Rectangle-31" transform="translate(1.000000, 1.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Mask"></g>
+                                <path d="M9.21214131,12.1198475 L13,14.6450866 L16.5642363,10.2887979 C17.2636914,9.43390825 18.5237368,9.30790371 19.3786264,10.0073589 C19.5070409,10.1124253 19.6218822,10.233063 19.7205031,10.3664913 L28,21.5681636 L-2,21.5681636 L6.64871461,12.410701 C7.31809957,11.7019405 8.40098072,11.5790738 9.21214131,12.1198475 Z M6.5,9 C5.11928813,9 4,7.88071187 4,6.5 C4,5.11928813 5.11928813,4 6.5,4 C7.88071187,4 9,5.11928813 9,6.5 C9,7.88071187 7.88071187,9 6.5,9 Z" id="Combined-Shape" fill="#D3D3D3" mask="url(#mask-2)"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
