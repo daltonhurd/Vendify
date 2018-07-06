@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 208 197">
+<style type="text/css">
+	.st0{fill:none;stroke:#273CF3;stroke-width:4;}
+	.st1{fill:#C3C3C3;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:none;stroke:#C3C3C3;}
+</style>
+<ellipse transform="matrix(0.2588 -0.9659 0.9659 0.2588 -13.288 180.0813)" class="st0" cx="110.7" cy="98.7" rx="95" ry="95"/>
+<rect x="-32.6" y="75.4" transform="matrix(0.2588 -0.9659 0.9659 0.2588 -61.5278 71.5737)" class="st1" width="97" height="1"/>
+<g>
+	<ellipse transform="matrix(0.2588 -0.9659 0.9659 0.2588 -61.5278 71.5737)" class="st2" cx="15.9" cy="75.9" rx="3.5" ry="3.5"/>
+	<ellipse transform="matrix(0.2588 -0.9659 0.9659 0.2588 -61.5278 71.5737)" class="st3" cx="15.9" cy="75.9" rx="3" ry="3"/>
+</g>
+<g>
+	<ellipse transform="matrix(0.2588 -0.9659 0.9659 0.2588 -123.1933 224.9466)" class="st2" cx="85" cy="192.7" rx="3.5" ry="3.5"/>
+	<ellipse transform="matrix(0.2588 -0.9659 0.9659 0.2588 -123.1933 224.9466)" class="st3" cx="85" cy="192.7" rx="3" ry="3"/>
+</g>
+<g>
+	<ellipse transform="matrix(0.2588 -0.9659 0.9659 0.2588 96.1514 134.0911)" class="st2" cx="135.5" cy="4.4" rx="3.5" ry="3.5"/>
+	<ellipse transform="matrix(0.2588 -0.9659 0.9659 0.2588 96.1514 134.0911)" class="st3" cx="135.5" cy="4.4" rx="3" ry="3"/>
+</g>
+<g>
+	<ellipse transform="matrix(0.2588 -0.9659 0.9659 0.2588 -5.2856 48.2774)" class="st2" cx="28.8" cy="27.6" rx="2.5" ry="2.5"/>
+	<ellipse transform="matrix(0.2588 -0.9659 0.9659 0.2588 -5.2856 48.2774)" class="st3" cx="28.8" cy="27.6" rx="2" ry="2"/>
+</g>
+<g>
+	<ellipse transform="matrix(0.2588 -0.9659 0.9659 0.2588 -117.7701 94.87)" class="st2" cx="2.9" cy="124.2" rx="2.5" ry="2.5"/>
+	<ellipse transform="matrix(0.2588 -0.9659 0.9659 0.2588 -117.7701 94.87)" class="st3" cx="2.9" cy="124.2" rx="2" ry="2"/>
+</g>
+</svg>
