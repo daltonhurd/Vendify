@@ -3949,7 +3949,7 @@ body.fixed-sidebar {
 	position: absolute;
 }
 .sb-pricing::before {
-	background-image: url('../img/design-elem/pricing-sb-shirt.png');
+
 	height: 300px;
 	left: 0; top: 144px;
 	width: 163px;
