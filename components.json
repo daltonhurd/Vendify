@@ -418,5 +418,17 @@
       "height": 312
     },
     "props": {}
+  },
+  {
+    "name": "Test2",
+    "tag": "Test2",
+    "description": "A basic Image Component",
+    "type": "primitive",
+    "supports_list_render": false,
+    "layout": {
+      "width": 375,
+      "height": 312
+    },
+    "props": {}
   }
 ]
